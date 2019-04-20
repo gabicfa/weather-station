@@ -1,7 +1,6 @@
 #include "DHT.h"
 #include <Adafruit_BMP085.h>
 #include <Wire.h>
-#include <Adafruit_BMP085.h>
 #include <LiquidCrystal.h>
 
 #define DHTPIN 7 // Pin where DHT was connected
