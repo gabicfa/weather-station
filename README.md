@@ -1,4 +1,4 @@
-# WeatherStation
+# Weather Station
 
 For the final project of the 
 Instrumentation and Measurement class of the 1st semester of 
