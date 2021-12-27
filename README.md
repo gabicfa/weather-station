@@ -19,3 +19,5 @@ For this project to work some libraries are needed. Those are:
 * [Wire](https://www.arduino.cc/en/reference/wire) - 
 This library allows you to communicate with I2C / TWI devices.
 * [LiquidCrystal](https://playground.arduino.cc/Main/LiquidCrystal/)
+
+Created at 2015.1
